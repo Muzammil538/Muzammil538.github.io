@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.login-btn{
+  border: none;
+  border-radius: 1rem;
+}
